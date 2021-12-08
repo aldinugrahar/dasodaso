@@ -431,15 +431,15 @@
 @font-face {
     font-family: 'Roboto';
     src: url("../fonts/Roboto-Medium.html");
-    src: local("Roboto Medium"), local("Roboto-Medium"), url("../fonts/Roboto-Mediumd41d.html") format("embedded-opentype"), url("../fonts/Roboto-Medium.woff2") format("woff2"), url("https://rosedoge.finance/assets/fonts/Roboto-Medium.woff") format("woff"), url("https://rosedoge.finance/assets/fonts/Roboto-Medium.ttf") format("truetype");
+    src: local("Roboto Medium"), local("Roboto-Medium"), url("../fonts/Roboto-Mediumd41d.html") format("embedded-opentype"), url("../fonts/Roboto-Medium.woff2") format("woff2"), url("https://darksolana.live/assets/fonts/Roboto-Medium.woff") format("woff"), url("https://darksolana.live/assets/fonts/Roboto-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url("https://rosedoge.finance/assets/fonts/Roboto-Bold.eot");
-    src: local("Roboto Bold"), local("Roboto-Bold"), url("https://rosedoge.finance/assets/fonts/Roboto-Boldd41d.eot") format("embedded-opentype"), url("https://rosedoge.finance/assets/fonts/Roboto-Bold.woff2") format("woff2"), url("https://rosedoge.finance/assets/fonts/Roboto-Bold.woff") format("woff"), url("https://rosedoge.finance/assets/fonts/Roboto-Bold.ttf") format("truetype");
+    src: url("https://darksolana.live//assets/fonts/Roboto-Bold.eot");
+    src: local("Roboto Bold"), local("Roboto-Bold"), url("https://darksolana.live/assets/fonts/Roboto-Boldd41d.eot") format("embedded-opentype"), url("https://darksolana.live/assets/fonts/Roboto-Bold.woff2") format("woff2"), url("https://darksolana.live/assets/fonts/Roboto-Bold.woff") format("woff"), url("https://darksolana.live/assets/fonts/Roboto-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal;
 }
@@ -2458,157 +2458,157 @@ h6,
 .nk-df-mask-a,
 .mask-a:before,
 .mask-a-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-a.svg);
 }
 
 .ie .nk-df-mask-a,
 .ie .mask-a:before,
 .ie .mask-a-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a.png);
+    background-image: url(https://darksolana.live/assets/images/mask-a.png);
 }
 
 .nk-df-mask-a-md,
 .mask-a-md:before,
 .mask-a-md-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a-md.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-a-md.svg);
 }
 
 .ie .nk-df-mask-a-md,
 .ie .mask-a-md:before,
 .ie .mask-a-md-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a-md.png);
+    background-image: url(https://darksolana.live/assets/images/mask-a-md.png);
 }
 
 .nk-df-mask-a-dark,
 .mask-a-dark:before,
 .mask-a-dark-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a-dark.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-a-dark.svg);
 }
 
 .ie .nk-df-mask-a-dark,
 .ie .mask-a-dark:before,
 .ie .mask-a-dark-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-a-dark.html);
+    background-image: url(https://darksolana.live/assets/images/mask-a-dark.html);
 }
 
 .nk-df-mask-line,
 .mask-line:before,
 .mask-line-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-line.html);
+    background-image: url(https://darksolana.live/assets/images/mask-line.html);
 }
 
 .ie .nk-df-mask-line,
 .ie .mask-line:before,
 .ie .mask-line-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-line-2.html);
+    background-image: url(https://darksolana.live/assets/images/mask-line-2.html);
 }
 
 .nk-df-mask-b,
 .mask-b:before,
 .mask-b-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-b.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-b.svg);
 }
 
 .ie .nk-df-mask-b,
 .ie .mask-b:before,
 .ie .mask-b-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-b.png);
+    background-image: url(https://darksolana.live/assets/images/mask-b.png);
 }
 
 .nk-df-mask-c,
 .mask-c:before,
 .mask-c-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-c.svg);
 }
 
 .ie .nk-df-mask-c,
 .ie .mask-c:before,
 .ie .mask-c-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c.png);
+    background-image: url(https://darksolana.live/assets/images/mask-c.png);
 }
 
 .nk-df-mask-c-light,
 .mask-c-light:before,
 .mask-c-light-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c-light.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-c-light.svg);
 }
 
 .ie .nk-df-mask-c-light,
 .ie .mask-c-light:before,
 .ie .mask-c-light-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c-light.png);
+    background-image: url(https://darksolana.live/assets/images/mask-c-light.png);
 }
 
 .nk-df-mask-c-dark,
 .mask-c-dark:before,
 .mask-c-dark-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c-dark.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-c-dark.svg);
 }
 
 .ie .nk-df-mask-c-dark,
 .ie .mask-c-dark:before,
 .ie .mask-c-dark-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-c-dark.html);
+    background-image: url(https://darksolana.live/assets/images/mask-c-dark.html);
 }
 
 .nk-df-mask-d,
 .mask-d:before,
 .mask-d-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-d.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-d.svg);
 }
 
 .ie .nk-df-mask-d,
 .ie .mask-d:before,
 .ie .mask-d-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-d.png);
+    background-image: url(https://darksolana.live/assets/images/mask-d.png);
 }
 
 .nk-df-mask-d2,
 .mask-d2:before,
 .mask-d2-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-d2.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-d2.svg);
 }
 
 .ie .nk-df-mask-d2,
 .ie .mask-d2:before,
 .ie .mask-d2-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-d2.html);
+    background-image: url(https://darksolana.live/assets/images/mask-d2.html);
 }
 
 .nk-df-mask-e,
 .mask-e:before,
 .mask-e-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-e.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-e.svg);
 }
 
 .ie .nk-df-mask-e,
 .ie .mask-e:before,
 .ie .mask-e-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-e.png);
+    background-image: url(https://darksolana.live/assets/images/mask-e.png);
 }
 
 .nk-df-mask-f,
 .mask-f:before,
 .mask-f-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-f.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-f.svg);
 }
 
 .ie .nk-df-mask-f,
 .ie .mask-f:before,
 .ie .mask-f-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-f.png);
+    background-image: url(https://darksolana.live/assets/images/mask-f.png);
 }
 
 .nk-df-mask-f-footer,
 .mask-f-footer:before,
 .mask-f-footer-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-f-footer.svg);
+    background-image: url(https://darksolana.live/assets/images/mask-f-footer.svg);
 }
 
 .ie .nk-df-mask-f-footer,
 .ie .mask-f-footer:before,
 .ie .mask-f-footer-bg {
-    background-image: url(https://rosedoge.finance/assets/images/mask-f-footer.png);
+    background-image: url(https://darksolana.live/assets/images/mask-f-footer.png);
 }
 
 .mask-a:before,
@@ -2686,254 +2686,255 @@ h6,
 .shape-a:after,
 .shape-a-bg,
 .bg-shape-a {
-    background-image: url(https://rosedoge.finance/assets/images/shape-a.png);
+    background-image: url(https://darksolana.live/assets/images/shape-a.png);
 }
 
 .nk-df-shape-a-sm,
 .shape-a-sm:after,
 .shape-a-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-a-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-a-sm.png);
 }
 
 .nk-df-shape-b,
 .shape-b:after,
 .shape-b-bg,
 .bg-shape-b {
-    background-image: url(https://rosedoge.finance/assets/images/shape-b.png);
+    background-image: url(https://darksolana.live/assets/images/shape-b.png);
 }
 
 .nk-df-shape-b-sm,
 .shape-b-sm:after,
 .shape-b-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-b-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-b-sm.png);
 }
 
 .nk-df-shape-c,
 .shape-c:after,
 .shape-c-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-c.png);
+    background-image: url(https://darksolana.live/assets/images/shape-c.png);
 }
 
 .nk-df-shape-c-sm,
 .shape-c-sm:after,
 .shape-c-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-c-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-c-sm.png);
 }
 
 .nk-df-shape-d,
 .shape-d:after,
 .shape-d-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-d.png);
+    background-image: url(https://darksolana.live/assets/images/shape-d.png);
 }
 
 .nk-df-shape-d-sm,
 .shape-d-sm:after,
 .shape-d-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-d-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-d-sm.png);
 }
 
 .nk-df-shape-e,
 .shape-e:after,
 .shape-e-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-e.png);
+    background-image: url(https://darksolana.live/assets/images/shape-e.png);
 }
 
 .nk-df-shape-e-sm,
 .shape-e-sm:after,
 .shape-e-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-e-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-e-sm.png);
 }
 
 .nk-df-shape-f,
 .shape-f:after,
 .shape-f-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-f.png);
+    background-image: url(https://darksolana.live/assets/images/shape-f.png);
 }
 
 .nk-df-shape-f-sm,
 .shape-f-sm:after,
 .shape-f-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-f-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-f-sm.png);
 }
 
 .nk-df-shape-g,
 .shape-g:after,
 .shape-g-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-g.png);
+    background-image: url(https://darksolana.live/assets/images/shape-g.png);
 }
 
 .nk-df-shape-g-sm,
 .shape-g-sm:after,
 .shape-g-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-g-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-g-sm.png);
 }
 
 .nk-df-shape-h,
 .shape-h:after,
 .shape-h-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-h.png);
+    background-image: url(https://darksolana.live/assets/images/shape-h.png);
 }
 
 .nk-df-shape-h-sm,
 .shape-h-sm:after,
 .shape-h-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-h-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-h-sm.png);
 }
 
 .nk-df-shape-i,
 .shape-i:after,
 .shape-i-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-i.png);
+    background-image: url(https://darksolana.live/assets/images/shape-i.png);
 }
 
 .nk-df-shape-i-sm,
 .shape-i-sm:after,
 .shape-i-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-i-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-i-sm.png);
 }
 
 .nk-df-shape-m,
 .shape-m:after,
 .shape-m-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-m.png);
+    background-image: url(https://darksolana.live/assets/images/shape-m.png);
 }
 
 .nk-df-shape-n,
 .shape-n:after,
 .shape-n-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-n.png);
+    background-image: url(https://darksolana.live/assets/images/shape-n.png);
 }
 
 .nk-df-shape-o,
 .shape-o:after,
 .shape-o-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-o.png);
+    background-image: url(https://darksolana.live/assets/images/shape-o.png);
 }
 
 .nk-df-shape-p,
 .shape-p:after,
 .shape-p-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-p.png);
+    background-image: url(https://darksolana.live/assets/images/shape-p.png);
 }
 
 .nk-df-shape-q,
 .shape-q:after,
 .shape-q-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-q.png);
+    background-image: url(https://darksolana.live
+	    /assets/images/shape-q.png);
 }
 
 .nk-df-shape-r,
 .shape-r:after,
 .shape-r-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-r.png);
+    background-image: url(https://darksolana.live/assets/images/shape-r.png);
 }
 
 .nk-df-shape-s,
 .shape-s:after,
 .shape-s-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-s.png);
+    background-image: url(https://darksolana.live/assets/images/shape-s.png);
 }
 
 .nk-df-shape-s-sm,
 .shape-s-sm:after,
 .shape-s-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-s-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-s-sm.png);
 }
 
 .nk-df-shape-t,
 .shape-t:after,
 .shape-t-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-t.png);
+    background-image: url(https://darksolana.live/assets/images/shape-t.png);
 }
 
 .nk-df-shape-u,
 .shape-u:after,
 .shape-u-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-u.png);
+    background-image: url(https://darksolana.live/assets/images/shape-u.png);
 }
 
 .nk-df-shape-v,
 .shape-v:after,
 .shape-v-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-v.png);
+    background-image: url(https://darksolana.live/assets/images/shape-v.png);
 }
 
 .nk-df-shape-w,
 .shape-w:after,
 .shape-w-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-w.png);
+    background-image: url(https://darksolana.live/assets/images/shape-w.png);
 }
 
 .nk-df-shape-x,
 .shape-x:after,
 .shape-x-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-x.png);
+    background-image: url(https://darksolana.live/assets/images/shape-x.png);
 }
 
 .nk-df-shape-x-2,
 .shape-x-2:after,
 .shape-x-2-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-x-2.png);
+    background-image: url(https://darksolana.live/assets/images/shape-x-2.png);
 }
 
 .nk-df-shape-x-3,
 .shape-x-3:after,
 .shape-x-3-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-x-3.png);
+    background-image: url(https://darksolana.live/assets/images/shape-x-3.png);
 }
 
 .nk-df-shape-y,
 .shape-y:after,
 .shape-y-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-y.png);
+    background-image: url(https://darksolana.live/assets/images/shape-y.png);
 }
 
 .nk-df-shape-z,
 .shape-z:after,
 .shape-z-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z.png);
 }
 
 .nk-df-shape-z2,
 .shape-z2:after,
 .shape-z2-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z2.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z2.png);
 }
 
 .nk-df-shape-a2,
 .shape-a2:after,
 .shape-a2-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-a2.png);
+    background-image: url(https://darksolana.live/assets/images/shape-a2.png);
 }
 
 .nk-df-shape-z3,
 .shape-z3:after,
 .shape-z3-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z3.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z3.png);
 }
 
 .nk-df-shape-z4,
 .shape-z4:after,
 .shape-z4-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z4.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z4.png);
 }
 
 .nk-df-shape-z6,
 .shape-z6:after,
 .shape-z6-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z6.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z6.png);
 }
 
 .nk-df-shape-z6-sm,
 .shape-z6-sm:after,
 .shape-z6-sm-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z6-sm.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z6-sm.png);
 }
 
 .nk-df-shape-z7,
 .shape-z7:after,
 .shape-z7-bg {
-    background-image: url(https://rosedoge.finance/assets/images/shape-z7.png);
+    background-image: url(https://darksolana.live/assets/images/shape-z7.png);
 }
 
 .shape-contain:after {
@@ -3113,12 +3114,12 @@ h6,
 }
 
 .bg-pattern-dots-color {
-    background-image: url(https://rosedoge.finance/assets/images/dot-a.png);
+    background-image: url(https://darksolana.live/assets/images/dot-a.png);
     background-size: contain;
 }
 
 .bg-pattern-dots {
-    background-image: url(https://rosedoge.finance/assets/images/dot-b.png);
+    background-image: url(https://darksolana.live/assets/images/dot-b.png);
     background-size: contain;
     background-repeat: repeat-y;
 }
@@ -3678,22 +3679,22 @@ hr {
     top: 15%;
     left: -4%;
     width: 100px;
-    background-image: url(https://rosedoge.finance/assets/images/ui-shape-a.svg);
+    background-image: url(https://darksolana.live/assets/images/ui-shape-a.svg);
 }
 
 .ui-shape:after {
     bottom: 10%;
     right: -4%;
     width: 90px;
-    background-image: url(https://rosedoge.finance/assets/images/ui-shape-b.svg);
+    background-image: url(https://darksolana.live/assets/images/ui-shape-b.svg);
 }
 
 .ui-shape-light:before {
-    background-image: url(https://rosedoge.finance/assets/images/ui-shape-light-a.svg);
+    background-image: url(https://darksolana.live/assets/images/ui-shape-light-a.svg);
 }
 
 .ui-shape-light:after {
-    background-image: url(https://rosedoge.finance/assets/images/ui-shape-light-b.svg);
+    background-image: url(https://darksolana.live/assets/images/ui-shape-light-b.svg);
 }
 
 .ui-shape-s1:after {
@@ -4301,7 +4302,7 @@ hr {
 
 .ui-mask-s2:before {
     display: block;
-    background-image: url(https://rosedoge.finance/assets/images/mask-line-a.png);
+    background-image: url(https://darksolana.live/assets/images/mask-line-a.png);
 }
 
 .ui-mask-s2.ui-mask-left:before {
@@ -4323,7 +4324,7 @@ hr {
 
 .ui-mask-s3:before {
     display: block;
-    background-image: url(https://rosedoge.finance/assets/images/mask-line-b.png);
+    background-image: url(https://darksolana.live/assets/images/mask-line-b.png);
 }
 
 .ui-mask-s3.ui-mask-right:before {
@@ -4356,7 +4357,7 @@ hr {
 
 .ui-mask-s5:before {
     display: block;
-    background-image: url(https://rosedoge.finance/assets/images/mask-line-c.png);
+    background-image: url(https://darksolana.live/assets/images/mask-line-c.png);
 }
 
 .ui-mask-s5.ui-mask-right:before {
@@ -4378,7 +4379,7 @@ hr {
 
 .ui-mask-s6:before {
     display: block;
-    background-image: url(https://rosedoge.finance/assets/images/mask-line-d.png);
+    background-image: url(https://darksolana.live/assets/images/mask-line-d.png);
 }
 
 .ui-mask-s6.ui-mask-left:before {
@@ -4415,7 +4416,7 @@ hr {
 
 .ui-mask-s8:before {
     display: block;
-    background-image: url(https://rosedoge.finance/assets/images/polygon-line-a.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-line-a.png);
 }
 
 .ui-mask-s8:after {
@@ -4430,7 +4431,7 @@ hr {
 .ui-mask-s9:before {
     display: block;
     top: -31px;
-    background-image: url(https://rosedoge.finance/assets/images/polygon-line-b.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-line-b.png);
 }
 
 .ui-mask-s9:after {
@@ -4445,7 +4446,7 @@ hr {
 .ui-mask-s10:before {
     display: block;
     top: -31px;
-    background-image: url(https://rosedoge.finance/assets/images/polygon-line-a-fill.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-line-a-fill.png);
 }
 
 .ui-mask-s10:after {
@@ -4460,7 +4461,7 @@ hr {
 .ui-mask-s11:before {
     display: block;
     top: -31px;
-    background-image: url(https://rosedoge.finance/assets/images/polygon-line-c.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-line-c.png);
 }
 
 .ui-mask-s11:after {
@@ -4479,7 +4480,7 @@ hr {
 .ui-mask-s12:before {
     display: block;
     top: 50px;
-    background-image: url(https://rosedoge.finance/assets/images/polygon-fill.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-fill.png);
 }
 
 .ui-mask-s12:after {
@@ -10574,7 +10575,7 @@ hr+.nk-block {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(https://rosedoge.finance/assets/images/dot-c.png) no-repeat;
+    background: url(https://darksolana.live/assets/images/dot-c.png) no-repeat;
     background-size: contain;
     background-position: 50% 50%;
 }
@@ -10767,7 +10768,7 @@ hr+.nk-block {
 }
 
 .img-block-dot {
-    background-image: url(https://rosedoge.finance/assets/images/dot-a.png);
+    background-image: url(https://darksolana.live/assets/images/dot-a.png);
     background-position: top center;
     padding: 50px 0;
     margin-top: -40px;
@@ -10944,7 +10945,7 @@ hr+.nk-block {
     left: 50%;
     transform: translate(-50%, -50%);
     content: '';
-    background-image: url(https://rosedoge.finance/assets/images/light-ix.png);
+    background-image: url(https://darksolana.live/assets/images/light-ix.png);
 }
 
 .app-slide img {
@@ -12476,7 +12477,7 @@ hr+.nk-block {
 }
 
 .feature-icon-bg-grd-s1 {
-    background-image: url(https://rosedoge.finance/images/icons/icon-bg-a.png);
+    background-image: url(https://darksolana.live/images/icons/icon-bg-a.png);
 }
 
 .feature-icon-bg-grd-s1 .icon-grd {
@@ -12484,7 +12485,7 @@ hr+.nk-block {
 }
 
 .feature-icon-bg-grd-s2 {
-    background-image: url(https://rosedoge.finance/images/icons/icon-bg-a2.png);
+    background-image: url(https://darksolana.live/images/icons/icon-bg-a2.png);
 }
 
 .feature-icon-bg-grd-s2 .icon-grd {
@@ -12492,7 +12493,7 @@ hr+.nk-block {
 }
 
 .feature-icon-bg-grd-s3 {
-    background-image: url(https://rosedoge.finance/images/icons/icon-bg-a3.png);
+    background-image: url(https://darksolana.live/images/icons/icon-bg-a3.png);
 }
 
 .feature-icon-bg-grd-s3 .icon-grd {
@@ -12737,7 +12738,7 @@ hr+.nk-block {
     height: 2px;
     content: '';
     width: 100%;
-    background: url(https://rosedoge.finance/assets/images/line.png) repeat 0 0;
+    background: url(https://darksolana.live/assets/images/line.png) repeat 0 0;
     z-index: -1;
     animation: slide 1s linear infinite;
 }
@@ -15960,7 +15961,7 @@ hr+.nk-block {
 }
 
 .rank-item {
-    background-image: url(https://rosedoge.finance/assets/images/hexagon.png);
+    background-image: url(https://darksolana.live/assets/images/hexagon.png);
     height: 88px;
     width: 94px;
     padding: 16px 20px 0;
@@ -16800,7 +16801,7 @@ hr+.nk-block {
     transform: translateX(-50%);
     transform-origin: 50% 50%;
     content: '';
-    background: url(https://rosedoge.finance/assets/images/polygon-a-dark.png) 50% 0/contain no-repeat;
+    background: url(https://darksolana.live/assets/images/polygon-a-dark.png) 50% 0/contain no-repeat;
     width: 215px;
     height: 205px;
     z-index: -1;
@@ -16808,7 +16809,7 @@ hr+.nk-block {
 }
 
 .tc-light .doc-shape:before {
-    background-image: url(https://rosedoge.finance/assets/images/polygon-a-light.png);
+    background-image: url(https://darksolana.live/assets/images/polygon-a-light.png);
 }
 
 .doc-shape-a:before {
