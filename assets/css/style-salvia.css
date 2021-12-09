@@ -435,7 +435,7 @@
 html,
 body {
     font-family: "Roboto", sans-serif;
-    color: #415076;
+    color: #180747;
     font-size: 14px;
     line-height: 1.86;
     font-weight: 300;
@@ -1635,7 +1635,7 @@ h6,
 .tc-base-white,
 .tc-light,
 .tc-light a:not(.btn):not([class*="link-"]) {
-    color: #f9bb2b;
+    color: #731585;
 }
 
 .tc-base-white-hover,
@@ -4215,7 +4215,7 @@ hr {
 
 .btn-grad {
     border: none;
-    background-image: linear-gradient(to right, #000 0%, #352c2c 100%);
+    background-image: linear-gradient(to right, #270432 0%, #352c2c 100%);
 }
 
 .btn-grad:before {
